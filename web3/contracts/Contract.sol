@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 /**
  * @title FacultyElection
- * @dev A smart contract for conducting a faculty election.
+ * @dev A smart contract for conducting a faculty election in a university.
  */
 contract FacultyElection {
     struct Candidate {
